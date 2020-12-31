@@ -1,0 +1,6 @@
+[submodule "com.unity.mathematics"]
+	path = com.unity.mathematics
+	url = ../com.unity.mathematics.git
+[submodule "com.unity.physics"]
+	path = com.unity.physics
+	url = ../com.unity.physics.git
