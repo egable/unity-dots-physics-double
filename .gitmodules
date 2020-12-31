@@ -4,3 +4,12 @@
 [submodule "com.unity.physics"]
 	path = com.unity.physics
 	url = ../com.unity.physics.git
+[submodule "com.unity.dots.editor"]
+	path = com.unity.dots.editor
+	url = ../com.unity.dots.editor.git
+[submodule "com.unity.entities"]
+	path = com.unity.entities
+	url = ../com.unity.entities.git
+[submodule "com.unity.rendering.hybrid"]
+	path = com.unity.rendering.hybrid
+	url = git@github.com:egable/com.unity.rendering.hybrid.git
